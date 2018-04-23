@@ -36,4 +36,5 @@ sysinfo.txt
 
 # nuget packages, but include config
 /packages/
+/Assets/packages/
 !packages/repositories.config
